@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned? 
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+
+Response : 
+
+I feel like i have learned quite a new things in this course like how to create up to date webpages, how to tackle problems with different types of HTML Tags, etc
+
+Most easiest part for me was to play with tags and make something new each and every time when i use them.
+
+Difficult part for me was to work with relative and attribute paths.
+
+Problem Solving Strategies used by me so far were pretty short and simple, when i was stuck up in any of the HTML context i would try my best to find were my some or the other thing had gone wrong and if this didn't work effectively then i used to take short breaks and then come back to the same problem and try to solve it more efficiently and i also took tremendous help from StackOverflow,Udacity Forums,MDN,etc. 
